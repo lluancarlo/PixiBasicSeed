@@ -1,4 +1,4 @@
-# Pixi.js-seed
+# Pixi.js Seed
 
 #### Basic seed to PIXI.js with Webpack (Auto-reloading OK!) and Typescript using yarn.
 
